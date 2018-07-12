@@ -13,36 +13,69 @@ As you go through each row,
 
 **gender**: m/f/u/o
 
-**nationality**: uk (England/Scotland)
+**nationality**:
+
+uk (England/Scotland)
+
 us (USA)
+
 ca (Canada)
+
 ir (Ireland)
+
 au (Australia)
+
 nz (New Zealand)
+
 sa (South Africa)
+
 de (Germany)
+
 fr (France)
+
 it (Italy)
+
 es (Spain)
+
 me (Mexico)
+
 ru (Russia)
+
 be (Belgium)
+
 ch (China)
+
 gk (Greece)
+
 aus (Austria)
+
 lit (Lithuania)
+
 cu (Cuba)
+
 ni (Nigeria)
+
 jp (Japan)
+
 ar (Argentina)
+
 nic (Nicaragua)
+
 ph (Phillippines)
+
 cmr (Cameroon)
+
 pk (Pakistan)
+
 swe (Sweden)
+
 no (Norway)
+
 in (India)
+
 ba (Barbados)
+
+da (Denmark)
 
 add as needed
 
