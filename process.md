@@ -77,6 +77,22 @@ ba (Barbados)
 
 da (Denmark)
 
+po (Poland)
+
+ru (Russia)
+
+bu (Bulgaria)
+
+kn (Kenya)
+
+is (Israel)
+
+gui (Guinea)
+
+cz (Czech Republic)
+
+pr (Puerto Rico)
+
 add as needed
 
 If you have info about authors' birth or death dates, add it, keeping to the format you find under a**uthordate.** Here and elsewhere, it is generally not helpful to add explanatory prose notes in a field where the program is going to expect to find a very limited & predictable range of options.
