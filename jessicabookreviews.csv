@@ -1,149 +1,208 @@
-year,volnum,pagenum,title,author,periodical,sentiment,genre
-1976,52,146,Why mosquitoes buzz in people’s ears,"Aardema, Verna",Horn Bk,-,juvenile
-1975,9,48,Why mosquitoes buzz in people’s ears,"Aardema, Verna",N Y Times Bk R,+,juvenile
-1975,22,40,Why mosquitoes buzz in people’s ears,"Aardema, Verna",SLJ,+,juvenile
-1976,S 26,6,Speedboat,"Adler, Renata",N Y Times Bk R,+,novel
-1976,88,107,Speedboat,"Adler, Renata",Newsweek,+-,novel
-1976,4,32,Speedboat,"Adler, Renata",Sat R,+,novel
-1975,35,274,Russian fairy tales; tr. By Norbert Guterman ,"Afanas’ev, Aleksandr",Best Sellers,+,shortstories
-1975,173,34,Russian fairy tales; tr. By Norbert Guterman ,"Afanas’ev, Aleksandr",New Repub,+-,shortstories
-1975,16,27,Russian fairy tales; tr. By Norbert Guterman ,"Afanas’ev, Aleksandr",N Y Times Bk R,"
-+",shortstories
-1976,174,26,The Canfield decision,"Agnew, Spiro T",New Repub,+,novel
-1976,Je 6,3,The Canfield decision,"Agnew, Spiro T",N Y Times Bk R,-,novel
-1976,107,86,The Canfield decision,"Agnew, Spiro T",Times,+-,novel
-1976,13,64,The second story man; a novel,"Albert, Mimi",Choice,+,novel
-1976,101,360,The second story man; a novel,"Albert, Mimi",Library J,-,novel
-1975,30,61,The second story man; a novel,"Albert, Mimi",N Y Times Bk R,+,novel
-1976,J1 25,7,Plots and counterplots: more unknown thrillers of Louisa May Alcott,"Alcott, Louisa May",N Y Times Bk R,+,fiction
-1976,52,105,Plots and counterplots: more unknown thrillers of Louisa May Alcott,"Alcott, Louisa May",New Yorker,+,fiction
-1976,23,144,Plots and counterplots: more unknown thrillers of Louisa May Alcott,"Alcott, Louisa May",SLJ,+,fiction
-1976,36,34,The untouchable Juli,"Aldridge, James",Best Sell,+-,novel
-1976,101,633,The untouchable Juli,"Aldridge, James",Library J,+,novel
-1976,52,114,The untouchable Juli,"Aldridge, James",New Yorker,+,novel
-1975,0 10,1217,The untouchable Juli,"Aldridge, James",TLJ,+,novel
-1976,101,737,Kinflicks; a novel,"Alther, Lisa",Library J,+,novel
-1976,52,112,Kinflicks; a novel,"Alther, Lisa",New Yorker,+,novel
-1976,87,91,Kinflicks; a novel,"Alther, Lisa",Newsweek,-,novel
-1976,101,633,Dead babies,"Amis, Martin",Library J,-,novel
-1975,90,479,Dead babies,"Amis, Martin",New Statesman,+-,novel
-1976,2,F8,Dead babies,"Amis, Martin",N Y Times Bk R,-,novel
-1973,85,779,Una and the heaven baby,"Andrew, Prudence",New Statesman,+,juvenile
-1976,22,109,Una and the heaven baby,"Andrew, Prudence",SLJ,+,juvenile
-1973,Ap 6,386,Una and the heaven baby,"Andrew, Prudence",TLS,+,juvenile
-1975,12,1313,Men of maize; tr from the Spanish by Gerald Martin,"Asturias, Miguel Angel",Choice,+-,novel
-1975,100,1439,Men of maize; tr from the Spanish by Gerald Martin,"Asturias, Miguel Angel",Library J,+-,novel
-1975,N 30,60,Men of maize; tr from the Spanish by Gerald Martin,"Asturias, Miguel Angel",N Y Times Bk R,+,novel
-1976,S 26,7,Lady Oracle,"Atwood, Margaret",N Y Times Bk R,-,novel
-1976,3,28,Lady Oracle,"Atwood, Margaret",Sat R,+,novel
-1976,108,97,Lady Oracle,"Atwood, Margaret",Time,+,novel
-1967,92,1950,About us; a novel,"Aaron, Chester",Library J,+,novel
-1967,204,828,About us; a novel,"Aaron, Chester",Nation,+,novel
-1967,27,119,My brother Tom; a love story,"Aldridge, James",Best Sell,-,novel
-1967,92,1950,My brother Tom; a love story,"Aldridge, James",Library J,+,novel
-1966,O 27,986,My brother Tom; a love story,"Aldridge, James",TLS,+-,novel
-1967,O 30,4,"Keep your mouth closed, dear",Aliki,Book Week,+,juvenile
-1966,91,5736,"Keep your mouth closed, dear",Aliki,Library J,-,juvenile
-1966,115,709,Pandemonium on the Potomac; a novel,"Anderson, William C",America,+,novel
-1966,26,114,Pandemonium on the Potomac; a novel,"Anderson, William C",Best Sell,-,novel
-1966,91,6198,Troublemaker,"Armer, Alberta",Library J,+-,juvenile
-1967,F 5,32,Troublemaker,"Armer, Alberta",N Y Times Bk R,-,juvenile
-1966,49,51,Troublemaker,"Armer, Alberta",Sat R,+,juvenile
-1967,Je 8,11,The gift shop,"Armstrong, Charlotte",Christian Science Monitor,+,novel
-1967,My 7,22,The gift shop,"Armstrong, Charlotte",N Y Times Bk R,+,novel
-1967,92,2813,Lemon in the basket,"Armstrong, Charlotte",Library J,+,novel
-1967,O 29,71,Lemon in the basket,"Armstrong, Charlotte",N Y Times Bk R,+,novel
-1967,27,149,A night of watching,"Arnold, Elliott",Best Sell,+,novel
-1967,Je 16,28,A night of watching,"Arnold, Elliott",N Y Times Bk R,+-,novel
-1967,90,67,A night of watching,"Arnold, Elliott",Time,-,novel
-1967,27,329,Don’t look at me like that,"Athill, Diana",Best Sell,+,novel
-1967,235,130,Don’t look at me like that,"Athill, Diana",Harper,+,novel
-1967,N 5,59,Don’t look at me like that,"Athill, Diana",N Y Times Bk R,-,novel
-1967,N 5,24,The maze maker; a novel,"Ayrton, Michael",Book World,+,novel
-1967,19,1283,The maze maker; a novel,"Ayrton, Michael",Nat R,+,novel
-1967,73,585,The maze maker; a novel,"Ayrton, Michael",New Statesman,-,novel
-1967,Ap 27,349,The maze maker; a novel,"Ayrton, Michael",TLS,+,novel
-1966,26,308,Lazarus; a novel,"Hartenfels, Jerome",Best Sell,+-,novel
-1966,91,4696,Lazarus; a novel,"Hartenfels, Jerome",Library J,+,novel
-1967,N 2,1029,Lazarus; a novel,"Hartenfels, Jerome",TLS,+,novel
-1967,92,1035,Treacherous road,"Harvester, Simon",Library J,+,novel
-1967,Ja 29,60,Treacherous road,"Harvester, Simon",N Y Times Bk R,+,novel
-1967,92,2179,The singing lizard,"Knowler, John",Library J,-,novel
-1967,50,37,The singing lizard,"Knowler, John",Sat R,+-,novel
-1967,F 23,152,The singing lizard,"Knowler, John",TLS,+-,novel
-1967,pt 2,20,From the mixed-up files of Mrs. Basil E Frankweiler,"Konigsburg, E.L.",Book World,+,juvenile
-1967,92,3851,From the mixed-up files of Mrs. Basil E Frankweiler,"Konigsburg, E.L.",Library J,+,juvenile
-1967,pt 2,44,From the mixed-up files of Mrs. Basil E Frankweiler,"Konigsburg, E.L.",N Y Times Bk R,+,juvenile
-1967,220,141,The revolutionary; a novel,"Koningsberger, Hans",Atlantic,+,novel
-1967,50,43,The revolutionary; a novel,"Koningsberger, Hans",Sat R,-,novel
-1968,90,109,The revolutionary; a novel,"Koningsberger, Hans",Time,-,novel
-1979,15,1661,Tragic magic; a novel,"Brown, Wesley",Choice,+,novel
-1978,103,2535,Tragic magic; a novel,"Brown, Wesley",Library J,+,novel
-1979,F 11,14,Tragic magic; a novel,"Brown, Wesley",N Y Times Bk R,+,novel
-1979,104,647,"The woman who was changed, and other stories","Buck, Pearl S.",Library J,-,shortstories
-1979,Mr 11,20,"The woman who was changed, and other stories","Buck, Pearl S.",N Y Times Bk R,-,shortstories
-1979,55,140,"The woman who was changed, and other stories","Buck, Pearl S.",Va Q R,+,shortstories
-1979,243,99,Abba Abba,"Burgess, Anthony",Atlantic,+,novel
-1978,57,34,Abba Abba,"Burgess, Anthony",Canadian Forum,+-,novel
-1977,49,82,Abba Abba,"Burgess, Anthony",Encounter,+,novel
-1979,140,517,Man of Nazareth,"Burgess, Anthony",America,+,novel
-1979,243,94,Man of Nazareth,"Burgess, Anthony",Atlantic,-,novel
-1979,258,94,Man of Nazareth,"Burgess, Anthony",Harper,+-,novel
-1979,38,384,Secret Isaac: a novel,"Charyn, Jerome",Best Sell,-,novel
-1979,Ja 21,14,Secret Isaac: a novel,"Charyn, Jerome",N Y Times Bk R,+,novel
-1978,112,128,Secret Isaac: a novel,"Charyn, Jerome",Time,+,novel
-1979,141,267,Sally Hemings; a novel,"Chase-Riboud, Barbara",America,+-,novel
-1979,O 28,14,Sally Hemings; a novel,"Chase-Riboud, Barbara",N Y Times Bk R,+-,novel
-1979,31,1638,Sally Hemings; a novel,"Chase-Riboud, Barbara",Nat R,-,novel
-1979,181,38,Sally Hemings; a novel,"Chase-Riboud, Barbara",New Repub,+,novel
-1978,139,290,Spoon,"Christgau, John",America,-,novel
-1978,242,90,Spoon,"Christgau, John",Atlantic,+ ,novel
-1978,103,1288,Spoon,"Christgau, John",Library J,+-,novel
-1979,104,1718,Gloria mundi: a novel,"Clark, Eleanor",Library J,+,novel
-1979,S 16,12,Gloria mundi: a novel,"Clark, Eleanor",N Y Times Bk R,-,novel
-1979,114,72,Gloria mundi: a novel,"Clark, Eleanor",Time,+-,novel
-1979,180,42,Good as Gold,"Heller, Joseph",New Repub,+,novel
-1979,93,91,Good as Gold,"Heller, Joseph",Newsweek,-,novel
-1979,113,92,Good as Gold,"Heller, Joseph",Time,-,novel
-1979,39,168,Getting free,"Hinton, Nigel",Best Sell,+-,novel
-1979,55,308,Getting free,"Hinton, Nigel",Horn Bk,+-,novel
-1978,25,74,Getting free,"Hinton, Nigel",SLJ,+-,novel
-1978,54,396,Charmed life,"Jones, Diana Wayne",Horn Bk,+-,novel
-1978,24,94,Charmed life,"Jones, Diana Wayne",SLJ,+-,novel
-1977,Mr 25,348,Charmed life,"Jones, Diana Wayne",TLS,+,novel
-1967,92,1641,"The chosen one, and other stories","Davies, Rhys",Library J,+,shortstories
-1967,73,477,"The chosen one, and other stories","Davies, Rhys",New Statesman,+-,shortstories
-1967,Ag 13,4,"The chosen one, and other stories","Davies, Rhys",N Y Times Bk R,+-,shortstories
-1967,92,3442,Death had two sons; a novel,"Dayan, Yaël",Library J,+-,novel
-1967,50,31,Death had two sons; a novel,"Dayan, Yaël",Newsweek,-,novel
-1967,90,115,Death had two sons; a novel,"Dayan, Yaël",Time,+,novel
-1967,92,2603,The least one,"Deal, Borden",Library J,+,novel
-1967,Ag 13,35,The least one,"Deal, Borden",N Y Times Bk R,+,novel
-1967,43,108,The least one,"Deal, Borden",New Yorker,+,novel
-1967,My 7,8,An expensive place to die; a novel,"Deighton, Len",Book Week,+-,novel
-1967,My 21,42,An expensive place to die; a novel,"Deighton, Len",N Y Times Bk R,+,novel
-1967,50,29,An expensive place to die; a novel,"Deighton, Len",Sat R,+,novel
-1967,O 22,66,A horseman riding,"Delderfield, R.F.",N Y Times Bk R,+,novel
-1967,70,85,A horseman riding,"Delderfield, R.F.",Newsweek,+,novel
-1966,O 30,5,Penny,"De Regniers, Beatrice Schenk",Book Week,-,juvenile
-1966,42,705,Penny,"De Regniers, Beatrice Schenk",Horn Bk,+,juvenile
-1966,D 25,12,Penny,"De Regniers, Beatrice Schenk",N Y Times Bk R,+-,juvenile
-1967,708,26,La satyre; tr. from the French by Elinor Smith Miller,"Des Rieux, Virginie",Am Scholar,-,novel
-1967,4,987,La satyre; tr. from the French by Elinor Smith Miller,"Des Rieux, Virginie",Choice,-,novel
-1967,92,2178,La satyre; tr. from the French by Elinor Smith Miller,"Des Rieux, Virginie",Library J,-,novel
-1967,O 8,20,The vale of laughter,"De Vries, Peter",Better World,+,novel
-1967,92,3443,The vale of laughter,"De Vries, Peter",Library J,+,novel
-1967,50,34,The vale of laughter,"De Vries, Peter",Sat R,+,novel
-1967,27,311,"The dolly, dolly spy","Diment, Adam",Best Sell,+-,novel
-1967,92,3054,"The dolly, dolly spy","Diment, Adam",Library J,+,novel
-1967,74,440,"The dolly, dolly spy","Diment, Adam",New Statesman,+,novel
-1967,N 12,25,Benjy Boone; a novel,"Dolbier, Maurice",Book World,+,novel
-1967,O 29,67,Benjy Boone; a novel,"Dolbier, Maurice",N Y Times Bk R,+-,novel
-1966,91,6110,A ride on the Milky Way; a novel,"Dorian, Marguerite",Library J,-,novel
-1967,50,31,A ride on the Milky Way; a novel,"Dorian, Marguerite",Sat R,+,novel
-1976,101,1659,Flight to Canada,"Reed, Ishmael",Library J,+,novel
-1976,223,247,Flight to Canada,"Reed, Ishmael",Nation,+,novel
-1976,4,35,Flight to Canada,"Reed, Ishmael",Sat R,+,novel
-1975,12,846,Rock Island Line,"Rhodes, David",Choice,+,novel
-1975,100,883,Rock Island Line,"Rhodes, David",Library J,+,novel
-1976,Ja 23,76,Rock Island Line,"Rhodes, David",TLS,-,novel
+1980,76,2,Charting by the stars,"Abrams, Linsey",Library J,+,novel
+1980,76,2,Charting by the stars,"Abrams, Linsey",N Y Times Bk R,+,novel
+1980,76,2,Charting by the stars,"Abrams, Linsey",SLJ,+,novel
+1980,76,7,In our house Scott is my brother,"Adler, C.S.",Horn Bk,+,novel
+1980,76,7,In our house Scott is my brother,"Adler, C.S.",SLJ,+,novel
+1980,76,13,A touch of chill; tales for sleepless nights,"Aiken, Joan",N Y Times Bk R,+,shortstories
+1980,76,13,A touch of chill; tales for sleepless nights,"Aiken, Joan",SLJ,+,shortstories
+1980,76,14,A touch of chill; tales for sleepless nights,"Aiken, Joan",TLS,+,shortstories
+1980,76,29,Secret lives,"Amoss, Berthe",N Y Times Bk R,+-,novel
+1980,76,29,Secret lives,"Amoss, Berthe",SLJ,+,novel
+1980,76,29,Secret lives,"Amoss, Berthe",VOYA,-,novel
+1980,76,35,The year of the she-grizzly,"Annixter, Jane",Appraisal,+,juvenile
+1980,76,35,The year of the she-grizzly,"Annixter, Jane",Appraisal,+,juvenile
+1980,76,35,The year of the she-grizzly,"Annixter, Jane",Horn Bk,+,juvenile
+1980,76,35,Anno�s Italy,"Anno, Mitsumasa",Chr Sci Mon,+,juvenile
+1980,76,35,Anno�s Italy,"Anno, Mitsumasa",SLJ,+,juvenile
+1980,76,35,Anno�s Italy,"Anno, Mitsumasa",TLS,+,juvenile
+1980,76,52,Life before man,"Atwood, Margaret",Library J,+,novel
+1980,76,52,Life before man,"Atwood, Margaret",Newsweek,+,novel
+1980,76,52,Life before man,"Atwood, Margaret",Sat R,+,novel
+1980,76,56,Encounter at Easton,Avi,Bull C C B,+,juvenile
+1980,76,56,Encounter at Easton,Avi,Horn Bk,+,juvenile
+1980,76,56,Encounter at Easton,Avi,SLJ,+,juvenile
+1980,76,64,The unlimited dream company; a novel,"Ballard, J.G.",Library J,-,novel
+1980,76,64,The unlimited dream company; a novel,"Ballard, J.G.",N Y Times Bk R,+,novel
+1980,76,65,The unlimited dream company; a novel,"Ballard, J.G.",TLS,+,novel
+1980,76,65,The salt eaters,"Bambara, Toni Cade",Library J,+,novel
+1980,76,65,The salt eaters,"Bambara, Toni Cade",N Y Times Bk R,+,novel
+1980,76,65,The salt eaters,"Bambara, Toni Cade",New Yorker,+,novel
+1992,88,2,"Alex, who won his war","Aaron, Chester",Booklist,+,juvenile
+1992,88,2,"Alex, who won his war","Aaron, Chester",Horn Book,+,juvenile
+1992,88,2,"Alex, who won his war","Aaron, Chester",SLJ,-,juvenile
+1992,88,11,When mama retires,"Ackerman, Karen",Booklist,+,juvenile
+1992,88,11,When mama retires,"Ackerman, Karen",Bull Cent Child Books,+,juvenile
+1992,88,11,When mama retires,"Ackerman, Karen",SLJ,+,juvenile
+1992,88,17,Mismatched summer,"Adler, Carole S.",Booklist,+,juvenile
+1992,88,17,Mismatched summer,"Adler, Carole S.",Bull Cent Child Books,+,juvenile
+1992,88,18,Mismatched summer,"Adler, Carole S.",SLJ,+,juvenile
+1992,88,36,Grandmothers of the light; a medicine woman�s sourcebook,"Allen, Paula Gunn",Choice,+,shortstories
+1992,88,36,Grandmothers of the light; a medicine woman�s sourcebook,"Allen, Paula Gunn",Libr J,+,shortstories
+1992,88,36,Grandmothers of the light; a medicine woman�s sourcebook,"Allen, Paula Gunn",Voice Lit Suppl,+-,shortstories
+1992,88,37,Bastard out of Carolina,"Allison, Dorothy",N Y Times Book Rev,+,novel
+1992,88,37,Bastard out of Carolina,"Allison, Dorothy",Voice Lit Supp,+,novel
+1992,88,37,Bastard out of Carolina,"Allison, Dorothy",Women�s Rev Books,+,novel
+1992,88,42,Day of atonement,"Alvarez, Alfred",N Y Times Book Rev,+,novel
+1992,88,42,Day of atonement,"Alvarez, Alfred",New Statesman Soc,-,novel
+1992,88,43,Day of atonement,"Alvarez, Alfred",Times Lit Suppl,+-,novel
+1992,88,43,How the Garcia girls lost their accents,"Alvarez, Julia",Newsweek,+-,novel
+1992,88,43,How the Garcia girls lost their accents,"Alvarez, Julia",SLJ,+,novel
+1992,88,43,How the Garcia girls lost their accents,"Alvarez, Julia",Women�s Rev Books,+,novel
+1992,88,69,1492; the life and times of Juan Cabez�n of Castile,"Aridjis, Homero",N Y Times Book Rev,+,novel
+1992,88,69,1493; the life and times of Juan Cabez�n of Castile,"Aridjis, Homero",New Repub,+,novel
+1992,88,70,1494; the life and times of Juan Cabez�n of Castile,"Aridjis, Homero",Times Lit Suppl,+-,novel
+1992,88,78,What you don�t know can kill you,"Arrick, Fran",Booklist,+-,YA
+1992,88,78,What you don�t know can kill you,"Arrick, Fran",Bull Cent Child Books,-,YA
+1992,88,78,What you don�t know can kill you,"Arrick, Fran",SLJ,-,YA
+1992,88,87,Hunting the wild pineapple,"Astley, Thea",Libr J,+,shortstories
+1992,88,87,Hunting the wild pineapple,"Astley, Thea",N Y Times Book Rev,+,shortstories
+1992,88,87,Hunting the wild pineapple,"Astley, Thea",World Lit Today,+,shortstories
+1992,88,90,Wilderness tips,"Atwood, Margaret",Christ Sci Monit,+-,shortstories
+1992,88,90,Wilderness tips,"Atwood, Margaret",Libr J,+,shortstories
+1992,88,90,Wilderness tips,"Atwood, Margaret",Times Lit Suppl,+,shortstories
+1992,88,91,Wilderness tips,"Atwood, Margaret",Women�s Rev Books,+-,shortstories
+1992,88,91,False gods,"Auchincloss, Louis",Christ Sci Monit,+,shortstories
+1992,88,92,False gods,"Auchincloss, Louis",Libr J,+,shortstories
+1992,88,92,False gods,"Auchincloss, Louis",N Y Times Book Rev,-,shortstories
+1992,88,91,The lady of situations,"Auchincloss, Louis",Libr J,-,novel
+1992,88,91,The lady of situations,"Auchincloss, Louis",N Y Times Book Rev,+,novel
+1992,88,91,The lady of situations,"Auchincloss, Louis",Times Lit Suppl,-,novel
+1992,88,94,Nothing but the truth; a documentary novel,Avi,Booklist,+,YA
+1992,88,94,Nothing but the truth; a documentary novel,Avi,Bull Cent Child Books,+,YA
+1992,88,94,Nothing but the truth; a documentary novel,Avi,N Y Times Book Rev,+,YA
+1992,88,94,Nothing but the truth; a documentary novel,Avi,SLJ,+,YA
+1992,88,103,"Oh, Emma","Baker, Barbara",Booklist,+,juvenile
+1992,88,103,"Oh, Emma","Baker, Barbara",Bull Cent Child Books,+-,juvenile
+1992,88,103,"Oh, Emma","Baker, Barbara",SLJ,+,juvenile
+1992,88,103,Hide and snake,"Baker, Keith",Booklist,+,juvenile
+1992,88,103,Hide and snake,"Baker, Keith",N Y Times Book Rev,+,juvenile
+1992,88,104,Hide and snake,"Baker, Keith",SLJ,+,juvenile
+1992,88,110,The kindness of women,"Ballard, J.G.",N Y Times Book Rev,+,novel
+1992,88,110,The kindness of women,"Ballard, J.G.",New Statesman,+,novel
+1992,88,110,The kindness of women,"Ballard, J.G.",Times Lit Suppl,+-,novel
+1992,88,110,The kindness of women,"Ballard, J.G.",Voice Lit Suppl,-,novel
+1980,76,881,A stopping place,"Mojtabai, A.G. ",N Y Times Bk R,+,novel
+1980,76,881,A stopping place,"Mojtabai, A.G. ",New Repub,+-,novel
+1980,76,882,A stopping place,"Mojtabai, A.G. ",New Yorker,+,novel
+1980,76,880,Valley of the broken cherry trees,"Namioka, Lensey",Horn Bk,+,YA
+1980,76,880,Valley of the broken cherry trees,"Namioka, Lensey",SLJ,+,YA
+1980,76,880,Valley of the broken cherry trees,"Namioka, Lensey",VOYA,+,YA
+1980,76,81,Falling in place; a novel,"Beattie, Ann",N Y Rev of Books,+-,novel
+1980,76,81,Falling in place; a novel,"Beattie, Ann",N Y Times Bk R,+,novel
+1980,76,81,Falling in place; a novel,"Beattie, Ann",Newsweek,+-,novel
+1980,76,81,Falling in place; a novel,"Beattie, Ann",Sat R,+-,novel
+1980,76,87,Sweet anarchy,"Benchley, Nathaniel",Library J,+,novel
+1980,76,87,Sweet anarchy,"Benchley, Nathaniel",N Y Times Bk R,+,novel
+1980,76,87,Sweet anarchy,"Benchley, Nathaniel",VOYA,+,novel
+1980,76,92,Neighbors; a novel,"Berger, Thomas",Library J,+,novel
+1980,76,93,Neighbors; a novel,"Berger, Thomas",N Y Times Bk R,+,novel
+1980,76,93,Neighbors; a novel,"Berger, Thomas",Time,+,novel
+1980,76,100,Doris Fein: superspy,"Bethancourt, T. Ernesto",Bull C C B,+,YA
+1980,76,100,Doris Fein: superspy,"Bethancourt, T. Ernesto",Horn Bk,+,YA
+1980,76,100,Doris Fein: superspy,"Bethancourt, T. Ernesto",VOYA,+,YA
+1980,76,100,Instruments of darkness,"Bethancourt, T. Ernesto",Horn Bk,+,YA
+1980,76,100,Instruments of darkness,"Bethancourt, T. Ernesto",N Y Times Bk R,+,YA
+1980,76,100,Instruments of darkness,"Bethancourt, T. Ernesto",SLJ,+-,YA
+1980,76,106,A woman�s age,"Billington, Rachel",Critic,+,novel
+1980,76,106,A woman�s age,"Billington, Rachel",N Y Times Bk R,+-,novel
+1980,76,106,A woman�s age,"Billington, Rachel",Newsweek,+,novel
+1980,76,111,Mister Magnolia,"Blake, Quentin",Growing Point,+,juvenile
+1980,76,111,Mister Magnolia,"Blake, Quentin",SLJ,+,juvenile
+1980,76,111,Mister Magnolia,"Blake, Quentin",TLS,+,juvenile
+1980,76,119,"Clever-Lazy, the girl who invented herself","Bodger, Joan",Horn Bk,+,YA
+1980,76,119,"Clever-Lazy, the girl who invented herself","Bodger, Joan",In Review,+,YA
+1980,76,119,"Clever-Lazy, the girl who invented herself","Bodger, Joan",SLJ,-,YA
+1980,76,119,A dry white season,"Brink, Andre",Chr Sci Mon,+-,novel
+1980,76,119,A dry white season,"Brink, Andre",Library J,+,novel
+1980,76,119,A dry white season,"Brink, Andre",N Y Times Bk R,+-,novel
+1980,76,119,A dry white season,"Brink, Andre",New Statesman,+-,novel
+1980,76,155,Creek Mary�s blood; a novel,"Brown, Dee",Chr Sci Mon,-,novel
+1980,76,156,Creek Mary�s blood; a novel,"Brown, Dee",Library J,+,novel
+1980,76,156,Creek Mary�s blood; a novel,"Brown, Dee",N Y Times Bk R,-,novel
+1980,76,156,Creek Mary�s blood; a novel,"Brown, Dee",New Yorker,+,novel
+1980,76,170,Fire watch; a novel,"Burke, Alan Dennis",Critic,-,novel
+1980,76,170,Fire watch; a novel,"Burke, Alan Dennis",Library J,+,novel
+1980,76,170,Fire watch; a novel,"Burke, Alan Dennis",New Repub,+-,novel
+1980,76,173,Rounds,"Busch, Frederick",Harper,+,novel
+1980,76,173,Rounds,"Busch, Frederick",Library J,+,novel
+1980,76,173,Rounds,"Busch, Frederick",Sat R,+,novel
+1980,76,173,Rounds,"Busch, Frederick",TLS,+-,novel
+1980,76,194,"The hockey sweater, and other stories","Carrier, Roch",Can Forum,+,shortstories
+1980,76,194,"The hockey sweater, and other stories","Carrier, Roch",Choice,+,shortstories
+1980,76,194,"The hockey sweater, and other stories","Carrier, Roch",In Review,+,shortstories
+1980,76,195,The bloody chamber,"Carter, Angela",N Y Times Bk R,+-,shortstories
+1980,76,195,The bloody chamber,"Carter, Angela",New Statesman,+,shortstories
+1980,76,195,The bloody chamber,"Carter, Angela",TLS,+,shortstories
+1980,76,209,The dragon�s village,"Chen, Yuan-Tsung",America,-,novel
+1980,76,209,The dragon�s village,"Chen, Yuan-Tsung",Chr Sci Mon,+-,novel
+1980,76,209,The dragon�s village,"Chen, Yuan-Tsung",New Repub,+,novel
+1980,76,209,The dragon�s village,"Chen, Yuan-Tsung",Newsweek,+,novel
+1992,88,253,Magic carpet,"Brisson, Pat",Booklist,+,juvenile
+1992,88,253,Magic carpet,"Brisson, Pat",Horn Book,+,juvenile
+1992,88,253,Magic carpet,"Brisson, Pat",SLS,+,juvenile
+1992,88,257,The runaway soul,"Brodkey, Harold",Libr J,+,novel
+1992,88,257,The runaway soul,"Brodkey, Harold",London Rev Books,-,novel
+1992,88,257,The runaway soul,"Brodkey, Harold",N Y Rev Books,+,novel
+1992,88,257,The runaway soul,"Brodkey, Harold",Newsweek,-,novel
+1992,88,262,Two moons in August; a novel,"Brooks, Martha",Bull Cent Child Books,+,YA
+1992,88,262,Two moons in August; a novel,"Brooks, Martha",Horn Book,+,YA
+1992,88,262,Two moons in August; a novel,"Brooks, Martha",SLJ,+,YA
+1992,88,267,Joe; a novel,"Brown, Larry",N Y Rev Books,+,novel
+1992,88,267,Joe; a novel,"Brown, Larry",N Y Times Book Rev,+,novel
+1992,88,267,Joe; a novel,"Brown, Larry",Time,+,novel
+1992,88,285,Jumping the Nail,"Bunting, Eve",Booklist,+,YA
+1992,88,286,Jumping the Nail,"Bunting, Eve",Bull Cent Child Books,+-,YA
+1992,88,286,Jumping the Nail,"Bunting, Eve",SLJ,+,YA
+1992,88,345,The plagiarist; a novel,"Cheever, Benjamin",N Y Times Book Rev,-,novel
+1992,88,345,The Plagiarist,"Cheever, Benjamin",Newsweek,+,novel
+1992,88,348,The scent of the gods; a novel,"Cheong, Fiona",Libr J,+,
+1992,88,348,The scent of the gods; a novel,"Cheong, Fiona",N Y Times Book Rev,+,
+1992,88,348,The scent of the gods; a novel,"Cheong, Fiona",SLJ,+-,YA
+1992,88,349,Plain grief,"Chernoff, Maxine",N Y Times Book Rev,+-,novel
+1992,88,349,Plain grief,"Chernoff, Maxine",Voice Lit Suppl,+-,novel
+1992,88,350,The light possessed,"Cheuse, Alan",Choice,+,novel
+1992,88,351,The light possessed,"Cheuse, Alan",N Y Times Book Rev,+,novel
+1992,88,351,The light possessed,"Cheuse, Alan",Small Press,+,novel
+1992,88,351,Lunch with Aunt Augusta,"Chichester-Clark, Emma",Booklist,+,juvenile
+1992,88,351,Lunch with Aunt Augusta,"Chichester-Clark, Emma",Grow Point,+,juvenile
+1992,88,351,Lunch with Aunt Augusta,"Chichester-Clark, Emma",SLJ,+-,juvenile
+1992,88,356,Year of impossible goodbyes,"Choi, Sook Nyul",Bull Cent Child Books,+,YA
+1992,88,356,Year of impossible goodbyes,"Choi, Sook Nyul",N Y Times Book Rev,+,YA
+1992,88,356,Year of impossible goodbyes,"Choi, Sook Nyul",SLJ,+,YA
+1992,88,391,The dragon in the cliff; a novel,"Cole, Sheila",Bull Cent Child Books,+-,juvenile
+1992,88,391,The dragon in the cliff; a novel,"Cole, Sheila",N Y Times Book Rev,-,juvenile
+1992,88,391,The dragon in the cliff; a novel,"Cole, Sheila",SLJ,+,juvenile
+1992,88,391,The summer of the royal visit,"Colegate, Isabel",Libr J,+,novel
+1992,88,391,The summer of the royal visit,"Colegate, Isabel",N Y Times Book Rev,+-,novel
+1992,88,392,The summer of the royal visit,"Colegate, Isabel",New Statesman,+,novel
+1992,88,392,The summer of the royal visit,"Colegate, Isabel",Times Lit Suppl,+-,novel
+1992,88,393,My crooked family,"Collier, James Lincoln",Booklist,+-,juvenile
+1992,88,393,My crooked family,"Collier, James Lincoln",Bull Cent Child Books,+-,juvenile
+1992,88,393,My crooked family,"Collier, James Lincoln",SLJ,-,juvenile
+1992,88,405,Shade those laurels,"Connolly, Cyril",Libr J,+,novel
+1992,88,405,Shade those laurels,"Connolly, Cyril",London Rev Books,+,novel
+1992,88,405,Shade those laurels,"Connolly, Cyril",N Y Times Book Rev,+,novel
+1992,88,407,Pedro’s journal; a voyage with Christopher Columbus,"Conrad, Pam",Booklist,+,juvenile
+1992,88,407,Pedro’s journal; a voyage with Christopher Columbus,"Conrad, Pam",Bull Cent Child Books,+-,juvenile
+1992,88,407,Pedro’s journal; a voyage with Christopher Columbus,"Conrad, Pam",SLJ,+,juvenile
+1992,88,407,Underworld; a novel,"Conrad, Peter",N Y Times Book Rev,+,novel
+1992,88,407,Underworld; a novel,"Conrad, Peter",New Statesman,+-,novel
+1992,88,407,Underworld; a novel,"Conrad, Peter",Times Lit Suppl,-,novel
+1992,88,414,Pinocchio in Venice,"Coover, Robert",Atlantic,-,novel
+1992,88,414,Pinocchio in Venice,"Coover, Robert",N Y Times Book Rev,+,novel
+1992,88,414,Pinocchio in Venice,"Coover, Robert",Times Lit Suppl,+-,novel
+1992,88,414,Pinocchio in Venice,"Coover, Robert",Libr J,+,novel
+1992,88,417,We all fall down,"Cormier, Robert",Booklist,+,YA
+1992,88,417,We all fall down,"Cormier, Robert",Bull Cent Child Books,+,YA
+1992,88,417,We all fall down,"Cormier, Robert",SLJ,+,YA
+1992,88,419,All that remains,"Cornwell, Patricia Daniels",N Y Times Book Rev,+-,novel
+1992,88,419,All that remains,"Cornwell, Patricia Daniels",Newsweek,+,novel
+1992,88,419,All that remains,"Cornwell, Patricia Daniels",Times Lit Suppl,+,novel
+1992,88,434,Scar lover,"Crews, Harry",Libr J,+,novel
+1992,88,434,Scar lover,"Crews, Harry",N Y Times Book Rev,+-,novel
+1992,88,434,Scar lover,"Crews, Harry",Time,-,novel
+1992,88,437,The three brothers,"Croll, Carolyn",Booklist,+-,juvenile
+1992,88,437,The three brothers,"Croll, Carolyn",SLJ,+,juvenile
+1992,88,447,The curandero; eight stories,"Curley, Daniel",Am Book Rev,+,shortstories
+1992,88,448,The curandero; eight stories,"Curley, Daniel",Choice,+-,shortstories
+1992,88,448,The curandero; eight stories,"Curley, Daniel",N Y Times Book Rev,+,shortstories
